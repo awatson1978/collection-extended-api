@@ -3,8 +3,15 @@ collection-extended-api
 
 Package that extends the Collection API.
 
+----------------------------
+#### Todo
+
 - String() 
-- Timestamp() 
+- getTimestamp() 
+- explain()
+- serverStatus.workingSet
+- stats.indexSize
+- 
 
 ````
 .explain()
