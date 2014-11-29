@@ -9,12 +9,17 @@ Package that extends the Collection API.
 - String() 
 - getTimestamp() 
 - explain()
+- lookup('test');
 - serverStatus.workingSet
 - stats.indexSize
-- lookup('test');
+
+
 
 ````
-.explain()
+// .explain()
 db.serverStatus({workingSet:1}).workingSet  
 db.stats().indexSize  
+
+// .lookup('test')
+var myTestCollection = Mongo.Collections.lookup('test');
 ````
