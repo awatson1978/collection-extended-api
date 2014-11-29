@@ -11,7 +11,7 @@ Package that extends the Collection API.
 - explain()
 - serverStatus.workingSet
 - stats.indexSize
-- 
+- lookup('test');
 
 ````
 .explain()
