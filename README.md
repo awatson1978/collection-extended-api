@@ -6,6 +6,7 @@ Package that extends the Collection API.
 ----------------------------
 #### Todo
 
+- drop()
 - String() 
 - getTimestamp() 
 - explain()
