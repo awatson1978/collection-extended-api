@@ -4,16 +4,18 @@ collection-extended-api
 Package that extends the Collection API.
 
 ----------------------------
-#### Todo
+#### Collection
 
 - drop()
-- String() 
-- getTimestamp() 
 - explain()
 - lookup('test');
 - serverStatus.workingSet
 - stats.indexSize
-
+- 
+----------------------------
+#### ObjectID
+- String() 
+- getTimestamp() 
 
 
 ````
